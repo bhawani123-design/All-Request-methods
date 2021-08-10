@@ -1,0 +1,29 @@
+[
+    {    
+      "id": 1001,
+      "first_name": "bhanu",
+      "last_name": "lohar",
+      "email": "ydalesco0@test.com",
+      "gender": "Genderfluid",
+      "ip_address": "164.215.194.36",
+      "age": 65
+  },
+      {    
+      "id": 1002,
+      "first_name": "shanu",
+      "last_name": "kumawat",
+      "email": "ydalesco0@test.com",
+      "gender": "Genderfluid",
+      "ip_address": "164.215.194.36",
+      "age": 65
+  },
+      {    
+      "id": 1003,
+      "first_name": "mukesh",
+      "last_name": "ahir",
+      "email": "ydalesco0@test.com",
+      "gender": "Genderfluid",
+      "ip_address": "164.215.194.36",
+      "age": 65
+  }
+]
